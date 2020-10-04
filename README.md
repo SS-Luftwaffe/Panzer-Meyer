@@ -1,2 +1,0 @@
-# Panzer-Meyer
-The Core
